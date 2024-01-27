@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>上移一层</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工具栏交互样式" transform="translate(-632.000000, -68.000000)" fill-rule="nonzero">
+            <g id="编组-37" transform="translate(619.000000, 51.000000)">
+                <g id="编组-29" transform="translate(13.000000, 15.000000)">
+                    <g id="上移一层" transform="translate(0.000000, 2.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="12.8" height="12.8"></rect>
+                        <path d="M1.42222223,9.24444445 L1.42222223,10.6666667 L10.6666667,10.6666667 L10.6666667,9.24444445 L1.42222223,9.24444445 Z M0.711111113,8.53333334 L11.3777778,8.53333334 L11.3777778,11.3777778 L0.711111113,11.3777778 L0.711111113,8.53333334 Z M0.711111113,6.4 L4.97777777,6.4 L4.97777777,7.11111111 L0.711111113,7.11111111 L0.711111113,6.4 Z M7.11111111,6.4 L11.3777778,6.4 L11.3777778,7.11111111 L7.11111111,7.11111111 L7.11111111,6.4 Z" id="形状" fill="#E7E7E7"></path>
+                        <polygon id="路径" fill="#E7E7E7" points="5.68888889 1.42222223 6.4 1.42222223 6.4 9.24444445 5.68888889 9.24444445"></polygon>
+                        <polygon id="路径" fill="#E7E7E7" points="8.10666666 3.69777778 8.60444445 3.2 6.04444445 0.711111113 3.55555555 3.2 4.05333334 3.69777778 6.04444445 1.70666666"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
