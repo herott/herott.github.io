@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>组合</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建报告-默认看板-展开" transform="translate(-575.000000, -17.000000)">
+            <g id="组合" transform="translate(573.375000, 16.000000)">
+                <rect id="矩形" fill="#414852" fill-rule="nonzero" opacity="0" x="0" y="0" width="17.915904" height="17.915904"></rect>
+                <rect id="矩形" stroke="#6F757E" stroke-width="0.746496" fill="#6F757E" x="2.612736" y="3.359232" width="7.46496" height="4.478976" rx="0.746496"></rect>
+                <rect id="矩形" stroke="#6F757E" stroke-width="0.746496" fill="#6F757E" x="7.091712" y="10.077696" width="7.46496" height="4.478976" rx="0.746496"></rect>
+                <path d="M1.679616,1.679616 L3.359232,1.679616 L3.359232,3.359232 L1.679616,3.359232 L1.679616,1.679616 Z M14.556672,1.679616 L16.236288,1.679616 L16.236288,3.359232 L14.556672,3.359232 L14.556672,1.679616 Z M1.679616,14.556672 L3.359232,14.556672 L3.359232,16.236288 L1.679616,16.236288 L1.679616,14.556672 Z M14.556672,14.556672 L16.236288,14.556672 L16.236288,16.236288 L14.556672,16.236288 L14.556672,14.556672 Z" id="形状" fill="#6F757E" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

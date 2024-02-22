@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编组 44</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.389853874" y="0" width="20.2724014" height="18" rx="1"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.2724014" height="18" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建仪表盘" transform="translate(-1592.000000, -250.000000)">
+            <g id="表格配置" transform="translate(1509.000000, 70.000000)">
+                <g id="编组-38" transform="translate(20.049628, 49.000000)">
+                    <g id="编组-44" transform="translate(62.950372, 131.000000)">
+                        <use id="矩形" stroke="#546378" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="1" xlink:href="#path-1"></use>
+                        <line x1="1.50372208" y1="12.0904403" x2="19.9519543" y2="12.0904403" id="路径-4" stroke="#546378" stroke-dasharray="1"></line>
+                        <line x1="1.50372208" y1="6.09044027" x2="19.9519543" y2="6.09044027" id="路径-4" stroke="#546378" stroke-dasharray="1"></line>
+                        <polygon id="矩形" fill="#C7CBD3" transform="translate(7.797077, 9.000000) rotate(-90.000000) translate(-7.797077, -9.000000) " points="-0.452922526 8.61014613 16.0470775 8.61014613 16.0470775 9.38985387 -0.452922526 9.38985387"></polygon>
+                        <polygon id="矩形" fill="#C7CBD3" transform="translate(14.034739, 9.000000) rotate(-90.000000) translate(-14.034739, -9.000000) " points="5.78473945 8.61014613 22.2847395 8.61014613 22.2847395 9.38985387 5.78473945 9.38985387"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
