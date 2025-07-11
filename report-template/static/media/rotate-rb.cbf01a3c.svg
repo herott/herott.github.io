@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>右下</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.67940849,4.58051712 C12.8669085,-0.493339185 19.0544085,-0.493339185 25.2419085,4.58051712" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-422.000000, -89.000000)">
+            <g id="右下" transform="translate(432.556349, 99.556349) scale(1, -1) rotate(45.000000) translate(-432.556349, -99.556349) translate(416.556349, 93.556349)">
+                <g id="路径-2" transform="translate(15.960658, 2.677821) scale(-1, 1) translate(-15.960658, -2.677821) ">
+                    <use stroke="#FFFFFF" stroke-width="2.1" xlink:href="#path-1"></use>
+                    <use stroke="#5273DE" stroke-width="1.5" xlink:href="#path-1"></use>
+                </g>
+                <path d="M26.2731585,4.31955416 L22.2910534,8.30165926 L30.2552636,8.30165926 L26.2731585,4.31955416 Z" id="三角形" stroke="#FFFFFF" stroke-width="0.5" fill="#5273DE" transform="translate(26.273158, 6.258830) rotate(-225.000000) translate(-26.273158, -6.258830) "></path>
+                <path d="M5.64815849,4.31955416 L1.66605339,8.30165926 L9.63026359,8.30165926 L5.64815849,4.31955416 Z" id="三角形" stroke="#FFFFFF" stroke-width="0.5" fill="#5273DE" transform="translate(5.648158, 6.258830) scale(-1, 1) rotate(-225.000000) translate(-5.648158, -6.258830) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>柱状图</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill-rule="evenodd" opacity="0.647042411">
+        <g id="右侧面板-组合图表" transform="translate(-1041.000000, -356.000000)">
+            <g id="编组-58" transform="translate(1032.000000, 339.000000)">
+                <g id="编组-25" transform="translate(9.000000, 17.000000)">
+                    <rect id="矩形" x="0.3864" y="1.68610909" width="1.932" height="8.43054545"></rect>
+                    <rect id="矩形" x="3.4776" y="3.79374545" width="1.932" height="6.32290909"></rect>
+                    <rect id="矩形" x="6.44" y="0" width="1.932" height="10.1166545"></rect>
+                    <rect id="矩形" x="9.66" y="6.32290909" width="1.932" height="3.79374545"></rect>
+                    <polygon id="路径" fill-rule="nonzero" points="0 11.3812364 12.3648 11.3812364 12.3648 12.2242909 2.0187773e-16 12.2242909"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

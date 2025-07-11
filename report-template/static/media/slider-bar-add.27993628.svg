@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>新增</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="形状配置" transform="translate(-1456.000000, -259.000000)">
+            <g id="取色器" transform="translate(1282.000000, 154.000000)">
+                <g id="编组-11" transform="translate(175.000000, 105.000000)">
+                    <polygon id="多边形" stroke="#CECFD0" fill="#556070" stroke-linejoin="round" points="4 0 8 4.96555815 8 13 0 13 0 4.96555815"></polygon>
+                    <g id="添加_add-one" transform="translate(1.000000, 5.000000)">
+                        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="5.67" height="5.67"></rect>
+                        <line x1="2.835" y1="0.945" x2="2.835" y2="4.725" id="路径" stroke="#19212F" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="0.945" y1="2.835" x2="4.725" y2="2.835" id="路径" stroke="#19212F" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

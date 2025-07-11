@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>矩形树图</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建报告-默认看板-展开" transform="translate(-277.000000, -217.000000)" fill-rule="nonzero">
+            <g id="图表" transform="translate(57.000000, 80.000000)">
+                <g id="矩形树图" transform="translate(233.500000, 148.500000) scale(-1, 1) translate(-233.500000, -148.500000) translate(220.000000, 137.000000)">
+                    <polygon id="路径" fill="#255F93" points="0 0 17.16 0 17.16 15.18 0 15.18"></polygon>
+                    <polygon id="路径" fill="#3BA0FD" points="0 16.56 17.16 16.56 17.16 22.08 0 22.08"></polygon>
+                    <polygon id="路径" fill="#255F93" points="18.48 12.42 26.4 12.42 26.4 22.08 18.48 22.08"></polygon>
+                    <polygon id="路径" fill="#3BA0FD" points="18.48 0 26.4 0 26.4 8.28 18.48 8.28"></polygon>
+                    <polygon id="路径" fill="#3BA0FD" points="18.48 9.66 26.4 9.66 26.4 12.42 18.48 12.42"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>加</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="右侧面板-组合图表" transform="translate(-784.000000, -264.000000)" fill-rule="nonzero">
+            <g id="组合图表配置-收起" transform="translate(738.000000, 110.000000)">
+                <g id="加" transform="translate(47.000000, 155.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="10" height="9"></rect>
+                    <rect id="矩形" stroke="#E0E0E0" stroke-width="0.3" x="0" y="0" width="10" height="9" rx="1"></rect>
+                    <polygon id="路径" fill="#E0E0E0" points="8 3.90404665 5.71448763 3.90404665 5.71448763 2 4.28551237 2 4.28551237 3.90404665 2 3.90404665 2 5.0950698 4.28551237 5.0950698 4.28551237 7 5.71448763 7 5.71448763 5.0950698 8 5.0950698"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>水平左对齐_对齐操作_jurassic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工具栏交互样式" transform="translate(-471.000000, -197.000000)" fill-rule="nonzero">
+            <g id="编组-37" transform="translate(452.000000, 51.000000)">
+                <g id="编组-19" transform="translate(18.000000, 141.400000)">
+                    <g id="水平左对齐_对齐操作_jurassic" transform="translate(6.500000, 9.500000) scale(-1, 1) translate(-6.500000, -9.500000) translate(0.000000, 3.000000)">
+                        <rect id="矩形" fill="#414852" opacity="0" x="0" y="0" width="12.5769646" height="12.5769646"></rect>
+                        <polygon id="路径" fill="#E7E7E7" transform="translate(6.086970, 6.312422) rotate(-270.000000) translate(-6.086970, -6.312422) " points="5.69393971 0.81 6.48 0.81 6.48 11.814844 5.69393971 11.814844"></polygon>
+                        <polygon id="路径" fill="#E7E7E7" transform="translate(3.972664, 6.432121) rotate(-90.000000) translate(-3.972664, -6.432121) " points="0.81 4.86 7.13532888 4.86 7.13532888 8.00424115 0.81 8.00424115"></polygon>
+                        <polygon id="路径" fill="#E7E7E7" transform="translate(8.766362, 6.432121) rotate(-90.000000) translate(-8.766362, -6.432121) " points="4.05 4.86 13.4827235 4.86 13.4827235 8.00424115 4.05 8.00424115"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

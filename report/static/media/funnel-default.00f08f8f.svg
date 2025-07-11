@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>漏斗图</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建报告-默认看板-展开" transform="translate(-85.000000, -266.000000)" fill-rule="nonzero">
+            <g id="图表" transform="translate(57.000000, 80.000000)">
+                <g id="漏斗图" transform="translate(24.000000, 182.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                    <polygon id="路径" fill="#3BA0FD" points="27.0666667 9.33333334 28.6666667 4 4.66666666 4 6.33333334 9.33333334"></polygon>
+                    <polygon id="路径" fill="#255F93" points="25.2 15.5333333 26.8 10.2 6.53333334 10.2 8.2 15.5333333"></polygon>
+                    <polygon id="路径" fill="#3BA0FD" points="23.2666667 21.8 24.8666667 16.4666667 8.46666666 16.4666667 10.0666667 21.8"></polygon>
+                    <polygon id="路径" fill="#255F93" points="10.3333333 22.6666667 12 28 21.4 28 23 22.6666667"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

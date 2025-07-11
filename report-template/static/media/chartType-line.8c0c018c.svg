@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>折线图</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke-width="1" fill-rule="evenodd">
+        <g id="右侧面板-组合图表" transform="translate(-1040.000000, -382.000000)">
+            <g id="编组-58" transform="translate(1032.000000, 339.000000)">
+                <g id="折线图" transform="translate(8.000000, 44.000000)">
+                    <polygon id="路径" stroke="none" fill-rule="nonzero" points="0 9.6 13.6 9.6 13.6 10.4727273 2.22044605e-16 10.4727273"></polygon>
+                    <polyline id="路径-2" fill="none" stroke-width="1.12" points="0.8 6.87509357 4.23261719 3.55752652 9.46699219 6.98181818 12.8 3.49090909"></polyline>
+                    <polyline id="路径-2" fill="none" stroke-width="1.28" points="0.8 3.38418448 4.23261719 0.0666174328 9.46699219 3.49090909 12.8 1.21115239e-17"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

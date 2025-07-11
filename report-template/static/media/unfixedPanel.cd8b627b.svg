@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>未锁定</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新建仪表盘-默认看板" transform="translate(-266.000000, -72.000000)">
+            <g id="图表" transform="translate(57.000000, 70.000000)">
+                <g id="未锁定" transform="translate(209.000000, 1.000000)">
+                    <path d="M0.496945625,6.05366169 C1.33793563,5.21263981 2.33734438,5.23590856 3.42364438,5.83162044 L7.485125,3.58044537 L7.25527438,2 L10.8615163,5.60623231 L9.28466,5.37998356 L7.02988625,9.43789419 C7.598345,10.5973473 7.64886688,11.5235711 6.80787688,12.3645929 C6.80787688,12.3645929 5.44990625,11.0066223 4.32857563,9.88529169 L0.496945625,12.3645929 L2.96467625,8.52139231 C1.84331375,7.40002981 0.496945625,6.05366169 0.496945625,6.05366169 Z" id="路径" stroke="#9198A2" stroke-width="0.95625" stroke-linejoin="round"></path>
+                    <line x1="2.5" y1="2" x2="10.4021792" y2="11.6691222" id="路径-3"></line>
+                    <rect id="矩形" stroke="#233045" stroke-width="0.6" fill="#9198A2" transform="translate(7.000000, 6.000000) rotate(47.000000) translate(-7.000000, -6.000000) " x="1.3" y="5.3" width="11.4" height="1.4" rx="0.7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
