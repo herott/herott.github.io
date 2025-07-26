@@ -1,0 +1,15 @@
+{
+	"name": "dataview",
+	"version": "1.0.0",
+	"description": "可视化编辑器",
+	"author": "zhouting",
+	"scripts": {
+		"deploy:dashboard": "tcb hosting deploy dashboard dataview/dashboard",
+		"deploy:dashboard-template": "tcb hosting deploy dashboard-template dataview/dashboard-template",
+		"deploy:image": "tcb hosting deploy image dataview/image",
+		"deploy:report": "tcb hosting deploy report dataview/report",
+		"deploy:report-template": "tcb hosting deploy report-template dataview/report-template",
+		"deploy:index": "tcb hosting deploy index.html dataview/index.html",
+		"deploy": "yarn run deploy:dashboard && yarn run deploy:dashboard-template && yarn run deploy:image && yarn run deploy:report && yarn run deploy:report-template && yarn run deploy:index"
+	}
+}
